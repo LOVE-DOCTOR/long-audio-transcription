@@ -1,7 +1,7 @@
 import requests
 import os
 
-gladia_key = '3132b10f-d352-4449-8178-e9da97fea908'
+gladia_key = ''
 
 
 def audio_transcription(filepath: str):
